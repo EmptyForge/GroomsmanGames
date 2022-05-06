@@ -1,2 +1,3 @@
 # Games
-## Chris: Sunless Squire
+## Sunless Squire
+[Play Sunless Squire](sunless_squire/index.html)
