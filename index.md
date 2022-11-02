@@ -9,4 +9,4 @@ Relax and do some fishing! Careful, the fish are skittish!
 
 ## Glade Protector
 Defend your homeland from devilish creatures! Harness the power of the spirits and grow in strength to keep the land sacred!
-[Play Glade Protector](glade_protector/index.html)
+[Play Glade Protector](glade_protector/index.md)
