@@ -8,4 +8,4 @@
 
 ##### So eventually this game will be here when the engine is updated....
 
-# But for now, your game is an .exe on my laptop (^▽^; )
+# But for now, your game can be downloaded and unzipped from [here](releases/latest/download/GladeProtector.zip)!
