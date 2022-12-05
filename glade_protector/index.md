@@ -8,4 +8,4 @@
 
 ##### So eventually this game will be here when the engine is updated....
 
-# But for now, your game can be downloaded and unzipped from [here](https://github.com/T3chedOut/GroomsmanGames/releases/download/1.0/GladeProtector.exe)!
+# But for now, your game can be downloaded from [here](https://github.com/T3chedOut/GroomsmanGames/releases/download/1.0/GladeProtector.exe)!
